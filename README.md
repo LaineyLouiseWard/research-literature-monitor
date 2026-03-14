@@ -21,16 +21,21 @@ python screen.py
 | File | Purpose |
 |---|---|
 | `screen.py` | Fetch → dedup → screen → save workflow |
-| `research_scope.md` | Thesis context sent as system prompt |
-| `relevance_rules.md` | 0–4 scoring rules sent as system prompt |
 | `source_list.md` | RSS feed URLs and justifications |
-| `zotero_profile.md` | Zotero library profile (informs scope/rules) |
 | `seen_papers.txt` | Normalised titles already processed (auto-generated) |
 | `paper_log.csv` | Logged papers with scores >= 3 (auto-generated) |
 
-## Refreshing Zotero context
+## Local-only context files
 
-`zotero_profile.md` captures the state of the LaineyResearch Zotero group library (ID 6343594) at the time of creation. To refresh it, use the Zotero MCP tools (`zotero_get_collections`, `zotero_get_tags`, etc.) against library 6343594 and update the file. This only needs doing if the library's composition changes substantially.
+`screen.py` reads three context files that are not tracked in git (`.gitignore`). You need to create these locally before running:
+
+| File | Purpose |
+|---|---|
+| `research_scope.md` | Thesis context sent as system prompt — defines your research question, include/exclude topics |
+| `relevance_rules.md` | 0–4 scoring rules sent as system prompt — defines what scores 3+ vs 0–2 |
+| `zotero_profile.md` | Zotero library profile — journals, topics, methods derived from your library |
+
+These can be generated using the Zotero MCP tools against your library and tailored to your research scope. See `screen.py` for the expected format.
 
 ## Notes
 
