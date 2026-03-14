@@ -1,6 +1,30 @@
-# Literature Monitor
+# Research Literature Monitor
 
-Daily screening of RSS feeds for papers relevant to the S2S thesis. New papers are scored 0–4 by Claude Haiku; those scoring >= 3 are logged.
+![Python](https://img.shields.io/badge/Python-3-3776AB?logo=python&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude-Haiku_API-blueviolet)
+![Feedparser](https://img.shields.io/badge/Feedparser-RSS-orange)
+
+Automated daily screening of academic RSS feeds for papers relevant to
+subseasonal-to-seasonal (S2S) climate prediction research. New papers are
+scored 0–4 by Claude Haiku against a configurable research scope; those
+scoring >= 3 are logged with metadata and topic labels.
+
+Built as research tooling to support a PhD thesis on S2S forecasting and
+compound hydroclimatic extremes, keeping the literature review current with
+minimal manual effort.
+
+---
+
+## Tech Stack
+
+| Category | Tools |
+|----------|-------|
+| **Feed parsing** | Feedparser |
+| **LLM screening** | Anthropic Claude Haiku API |
+| **Metadata fallback** | Crossref API (for bot-blocked journals) |
+| **Language** | Python (standard library + requests) |
+
+---
 
 ## Quick start
 
@@ -35,7 +59,7 @@ python screen.py
 | `relevance_rules.md` | 0–4 scoring rules sent as system prompt — defines what scores 3+ vs 0–2 |
 | `zotero_profile.md` | Zotero library profile — journals, topics, methods derived from your library |
 
-These can be generated using the Zotero MCP tools against your library and tailored to your research scope. See `screen.py` for the expected format.
+These can be generated using the [zotero-mcp](https://github.com/54yyyu/zotero-mcp) server against your library and tailored to your research scope. See `screen.py` for the expected format.
 
 ## Notes
 
