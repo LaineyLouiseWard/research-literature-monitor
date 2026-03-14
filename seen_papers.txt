@@ -1,0 +1,234 @@
+journal information and table of contents
+comparing a comprehensive observed winter precipitation type climatology to the era5 reanalysis precipitation type climatology
+an integrated model for tropical cyclone track forecasting based on deep learning techniques
+the meteorology of the january 2025 los angeles wildfires
+the effects of increased accretion efficiency on the surface precipitation simulation of airsea interaction events over the korean peninsula
+prediction skill of enso and enso teleconnections in norcpm a comparative analysis with c3s
+a computationally efficient consensus model for improving hurricane track forecasting
+estimating the influence of wind load on ice and snowcovered wires and trees for use in impactbased indices
+impact of gnss ro data on the prediction of atmospheric river events a romex experiment
+ripcurrent likelihoods and predictions on two different bathymetries observed within 1 week on the same beach in duck north carolina
+improved probabilistic wind speed forecasting for summer in china via categorized bayesian model averaging
+plume model assessment of tropical convection biases in weather forecast systems application to the noaa unified forecast system
+convective mode classification and distribution of contiguous us tornado events from 2003 to 2023
+a maximum wind gust forecast method based on combination of traditional statistics and machine learning
+impact of the ensemblederived background error covariance in the hybrid 4denvar data assimilation framework on the boreal summer predictability of a global numerical model
+dualpolarization cband radar inferred rain microphysics in the indian core monsoon zone
+adjointbased forecast sensitivity to quasigeostrophic potential vorticity
+influence of a cold wake on sea spray heat fluxes and their feedback on typhoon marwar
+simulating the transition from freezing rain to ice pellets during wintremix the role of secondary ice production
+impacts of tropical forecast errors on weeks 34 extreme precipitation predictions over california during winter 202223
+exploring the causes of difference in moat width in concentric eyewallsensemble simulation of typhoon haiyan 2013
+parameterization of melting snow for bulk cloud microphysics schemes
+influences of desert afforestation on boundary layer convergence lines and related convection and convective precipitation over a desertoasis border
+ensemblebased evaluation of the forecast impact expected from epssterna part i evaluation of 50 and 183ghz channels
+ensemblebased evaluation of the forecast impact expected from epssterna part ii adding the 325ghz channels
+improving subseasonal to seasonal global 2m temperature and precipitation forecasts using a deep learningbased postprocessing approach
+cloudradiative impact on the dynamics of extratropical cyclones during nawdex
+the role of equatorial waves in triggering precipitation extremes in the maritime continent
+statistical properties of stratiform and convective rain rates under seasonal changes and mjo propagation at jakarta the maritime continent
+pacific extratropical precursors and dynamic mechanism of two types of summer enso continuing and emerging enso
+drivers of marine heat waves in the north pacific ocean
+arctic sea ice meltwater as a forcing and feedback on the atlantic meridional overturning circulation
+persistent antarctic sea ice biases in cmip6 models in spite of the recent decadelong sharp decline
+interannual variability of marine heat waves in the south indian ocean
+added values of cmip5 models in reducing the uncertainty range of future projections over china using unequalweighted average
+extreme marine heat waves in the tropical atlantic during boreal early spring 2024 major role of shortwave radiation and mixed layer depth
+an energetic perspective on heat waves using a fixed atmospheric mass calculation of instantaneous atmospheric heat flux convergence
+impacts of tc and mjo on el nio evolution revisiting the formation mechanism of 198687198788 twoyear el nio
+dominant intraseasonal modes of winter surface air temperature in the extratropical northern hemisphere
+divergent mechanisms of high healthrisk compound hot and dry events across chinas early and late warm seasons
+origin and limits of invariant warming patterns in climate models
+physical phenology of airsea heat budget for the beaufort sea autumn freezeup
+the impact of arctic amplification on midlatitude winter weather assessing the stratospheric pathway in a warming climate
+projected future changes of ningaloo nio under global warming
+regional heavy snowfall events over the northwestern tibetan plateau dominated by distinct circulation patterns
+integration of physical bound constraints to alleviate shortcomings of statistical models for extreme temperatures
+toward reducing uncertainty in simulating temporal clustering of extreme precipitation in morocco insights from highresolution gcms
+a moisture mode and tropical wave analysis of counterintuitive mjo events
+interaction between the maddenjulian oscillation and easterly waves on extreme precipitation events over southeastern mexico and central america
+the strength of coupling to the southern ocean modulates tropical eastern pacific variability and forced response
+the spatiotemporal variability trends and drivers of winter arctic polynyas
+localized driving of the subtropical jet by tropical convection an idealized modelling study
+global increase in tropical cyclone rapid slowdown events in offshore regions
+contrasting longterm trends in nearsurface and subsurface indopacific warm pool volume seasonality
+combined impacts of enso and arctic sea ice on north american climate
+examining cloud feedback components in the simple cloudresolving e3sm atmosphere model scream
+linking upstream cold continental air to the intensity of marine cold air outbreaks along the western boundary currents of the north pacific and north atlantic a lagrangian analysis
+future sea iceocean and biological productivity changes in the north water polynya region under policy relevant warming levels
+probabilistic emulation of the community radiative transfer model using machine learning
+examination of cloud phase partition and controlling factors based on in situ and satellite observations and machine learning approaches
+observationguided interpolation using graph neural networks for highresolution operational nowcasting in switzerland
+efficient modeling of subkilometer surface wind with gaussian processes and neural networks
+synthetic generation of extratropical cyclones fields with generative adversarial networks
+very shortterm cg lightning probability forecasting in the amazon basin using deep learning models
+large language modelbased classification of flash flood impacts across the united states
+global forecasting of tropical cyclone intensity using neural weather models
+bayesian deep learning for convective initiation nowcasting uncertainty estimation
+climate adaptationaware flood prediction for coastal cities using deep learning
+novel insights into deep groundwater exploration by geophysical estimation of hard rock permeability
+how does integrating multiscale monitoring and compoundspecific isotope analysis improve the evaluation of smetolachlor degradation in agroecosystems
+synergistic impact of simultaneously assimilating radar and radiometerbased soil moisture retrievals on the performance of numerical weather prediction systems
+assessing the impact of earth observation datadriven calibration of the melting coefficient on the lisflood snow module
+modeling surface water and groundwater mixing and mixingdependent denitrification with bedform dynamics
+technical note transit times of reactive tracers under  timevariable hydrologic conditions
+climate change effects on river droughts in bavaria using a hydrological large ensemble
+enhancing process interpretation with isotopes potential  dischargeisotope tradeoffs in ecohydrological modelling  of heavily managed lowland catchments
+uncertainties in longterm ensemble estimates of contextual evapotranspiration over southern france
+sensitivity of hydrological machine learning prediction accuracy to information quantity and quality
+skills in subseasonal to seasonal terrestrial water storage forecasting insights from the fews net land data assimilation system
+catchment transit time variability with different sas function parameterizations for the unsaturated zone and groundwater
+uncertainty sources in a large ensemble of hydrological projections regional climate models and internal variability matter
+a review of current best practices and future directions in assimilating gracefo terrestrial water storage data into numerical models
+quantifying evaporation of intercepted rainfall a hybrid correction approach for eddycovariance measurements
+hydrological regime shifts in sahelian watersheds an investigation with a simple dynamical model driven by annual precipitation
+uk hydrological outlook using historic weather analogues
+hotspots and hot moments of metal mobilization  dynamic connectivity in legacy mine waters
+incorporating natural variability in master recession curves
+numerical experiments of cloud seeding for mitigating localization of heavy rainfall a case study of mesoscale convective system in japan
+droughts in south east europe see current picture tendencies and impact
+reducing risk together moving towards a more holistic approach to multihazard and multirisk assessment and management
+critical evaluation of strong ground motions in izmir and implications for future earthquake simulation results
+understanding the combined mental health impacts of flooding and covid19 in hue city central vietnam
+integrating smart principles in flood early warning system design in the himalayas
+assessing the ability of the ecmwf seasonal prediction model to forecast extreme septembernovember rainfall events over equatorial africa
+identification of hydrometeorological drivers for forest low greenness events in europe
+the eaws matrix a decision support tool to determine the regional avalanche danger level part b operational testing and use
+the 15 september 2022 floods in northern marche central italy disaster analysis case studies and mitigation strategies for hydrogeomorphological hazard
+mitigating mazuku hazards implementation and effectiveness of local drygas degassing measures in the goma area virunga volcanic province
+changing drivers of regional large magnitude avalanche frequency throughout colorado usa
+harnessing multisource hydrometeorological data for high flows modelling in a partially glacierized himalayan basin
+a thorough review of the 5 may 1990 potenza southern italy earthquake constraints from macroseismology and  insights from hydrology
+advancing glacial lake hazard and risk assessment in bhutan through hydrodynamic flood mapping and exposure analysis
+assessing the intensification and impact of a historical storm in a warmer climate
+constantly renewing glacial lakes in the kyrgyz range northern tien shan
+lessons learned in institutional preparedness and response during the 2022 european drought
+first mapping of a tsunami wavefield by swot satellite observation data and preliminary numerical simulation of the 19may 2023 tsunami near the loyalty islands
+human decisionmaking in crowds in a virtual flood scenario
+datadriven exploration of tropical cyclones controllability
+motional induction in ganymedes ocean
+distant storms can affect seismic noise crustal monitoring
+holistic retrieval of absolute coseismic displacement fields from single interferograms via physicsaware gans
+a southern ocean multidecadal oscillator forced by deep convection
+thank you to our 2025 peer reviewers
+local time asymmetry in energetic electron distribution within saturns inner magnetosphere
+inverse grading emerges from particlescale migration under seasonal freezethaw forcing evidence from multiyear monitoring and physical modeling
+internal lee waves control deep ocean turbulent mixing in the antarctic circumpolar current at 50e
+snowcovered insights from above and below highfrequency measurement of nitrogen dioxide from space and ground
+global impacts of ultralowfrequency waves 1 thermospheric responses and traveling atmospheric disturbances
+decoupling hydroclimatic controls on displacement of retrogressive thaw slumps in qinghaitibet plateau
+synchronized heat extremes in the northern hemisphere based on a complex network
+trophic changes off southwest greenland during the holocene and their influence on carbon burial
+stratospheric aerosol particle size explains divergent limb and solar occultation measurements after the hunga eruption
+new phoenix magnetic anomaly data confirms global nature of jurassic quiet zone and provides insight into early pacific spreading
+contribution of unconventional mesoscale eddies to surface poleward heat flux in the southern ocean over the past three decades
+forecasting the future with yesterdays climate temperature bias in ai weather and climate models
+estimating net sediment fluxes in tidal systems using sporadic data sets implications for using remote sensing to assess saltmarsh resilience
+changing aerodynamic roughness in wrf reduces bias and improves accuracy in nearsurface wind simulations
+exceptionally elongated strikeslip rupture caused by the 2025 mw 78 myanmar earthquake
+scaling of latitudedependent heat transport in geostrophic convection
+eofbased bias correction of nearsurface wind speed over china reveals stronger future trends and variability
+issue information
+influence of innercore dynamics regulating the intensity decay of landfalling tropical cyclones over the eastern coast of india
+weighted multiscale nonlinear optimal initialperturbation strategy for convectivescale ensemble forecasting
+intensity dependence of el nio and la nia evolution and mixedlayer heatbudget processes
+regional hybrid threedimensional variational assimilation and forecast experiments based on multiscale ensemble members
+microphysical chemistry of fogaerosol interactions over the northwest atlantic ocean during fatima 2022
+mechanisms shaping activebreak spell variability in flood and drought years of the indian summer monsoon
+polarlow track prediction using machinelearning methods
+causes of the 2022 yangtzehuaihe river basin drought a comparative study with the 2020 flood
+assessing highresolution numerical models and bottomboundary factors for a mediterranean heavy precipitation event
+moisture sources and transport pathways for spring and summer ef1 tornadic thunderstorms in central and eastern china
+modulation of north atlantic atmospheric rivers by the gulf stream
+fogcast probabilistic mediumrange fog forecasting using global machinelearning weather prediction model
+atmosphere ocean and coupled oceanatmosphere models in a single code
+estimating the potential impact of the epssterna satellite constellation in regional numerical weather prediction
+costeffective hybrid envar for convectivescale data assimilation through machinelearningaided background error covariances
+the nonhydrostatic option of the ecmwf global weather forecast model improvements for kilometrescale modelling
+subseasonal predictability of cold spells in the central united states
+moisture inversions in the central arctic product assessment and longwave radiative effect
+how does terrain modulate precipitation patterns in varying northeasterly monsoon conditions in taiwan
+assessing the role of urban blue space in summer outdoor thermal regulation in northwestern europe a hectometric weather research and forecasting modelling on idealized urban landscape
+impact of urban morphology on turbulence and drag in idealized building clusters
+preparation for assimilation of meteosat third generation infrared sounder radiances into an atmospheric composition model for ozone and carbon monoxide forecasts
+cobase a new copulabased shuffling method for ensemble weather forecast postprocessing
+turbulent snow transport and accumulation new reducedorder models and diagnostics
+moisture and wind effects of rossby waves on western pacific intertropical convergence zone breakdown events
+background error covariances for a future coupled oceanatmosphere data assimilation system case of tropical cyclone batsirai
+performance evaluation of regional weather predictions with the model for prediction across scalesatmosphere mpasa over the maritime continent
+the relationship between seasonal mean temperature and most extreme day
+does vertical wind shear increase tropical cyclone rain
+reliability of modern satellite precipitation products in a datascarce west african country a comprehensive validation for benin
+assimilation of solarinduced fluorescence satellite observations in the european centre for mediumrange weather forecasts integrated forecast system
+assimilating satellite clearsky infrared radiances in the cmameso model using variational quality control
+quantifying driving ensemble influence on operational convectionpermitting ensemble spread
+forecast verification using information and noise
+allsky assimilation impacts of the tomorrowio microwave sounder constellation on global weather forecasts
+operational allsky assimilation of geostationary infrared watervapour channels in the regional icond2 model with an ensemble kalman filter
+spatial and temporal variability of wet spells and their role in wet and dry summers and winters in australia
+covariance of the intertropical discontinuity and african easterly jet in sahelian wet and dry years
+a fourdimensional nonlinear dynamical model for an integrated early warning system of rapidonset meteorological hazards
+assimilation of european and global modes aircraft observations into the met office global deterministic numerical weather prediction model
+exceptionally poor and good mediumrange forecasts of the largescale circulation over europe in era5 reforecasts
+simultaneous retrieval of temperature and humidity profiles from groundbased infrared hyperspectral spectrometer by combined machine learning and physical iterative method
+a learnable troublecell indicator for hybrid multimoment finitevolume transport modeling on a cubedsphere grid
+a regional implementation of a mixed finiteelement semiimplicit dynamical core
+on the  beta effect in the baroclinic instability of a continuously stratified atmosphere
+exploring forms of the moist shallowwater equations using a new compatible finiteelement discretisation
+a study of a free convective boundary layer using a parcelbased lagrangian model
+improving supercooled liquid water representation in lima using icicle data
+where numerical weather prediction meets largeeddy simulations in a convective boundary layer during the fesstval field experiment
+improving convectionpermitting allsky infrared radiance ensemble data assimilation through mitigating deleterious nongaussian artifacts
+a comparison of the stochastic and nonlinear representations of model uncertainty in a convectionallowing ensemble prediction system
+scale interactions of deep convection in the sahel exploring ring patterns in lagged crosscorrelations of rainfall
+evaluation of the wrf model for simulating deep convection and coldpool characteristics relevant to windenergy applications in germany
+aerosols drive the missed global brightening recently in era5 and erai over japan
+scalar turbulent fluxes and variances in the interfacial layer from lidar observations and assessment of lagrangian stochastic models
+impacts of atmospheric river reconnaissance dropsondes on ecmwf integrated forecasting system precipitation forecasts
+sudden stratospheric warming linked to extreme cold weather in north india physical processes and impacts
+atmospheric influence of the australian summer monsoon on antarctic sea ice variability over pacific sector
+on the contrasting springtime extremes in india heatwaves and hailstorms in 2022 and 2023
+the response of convectively generated gravity waves to sea surface temperature variations revealed by aquaplanet simulations
+quality evaluation of the precipitation over the tropical oceans in the jra3q reanalysis
+the sole and combined effects of the solar cycle and quasibiennial oscillation on the north atlantic and mediterranean storm tracks in winter
+improving subseasonaltoseasonal prediction of the ensoeast asia teleconnection a dynamicalstatistical model approach
+the benefits and challenges of using dense modes aircraft winds at ecmwf
+exploring strongly coupled landatmosphere data assimilation for numerical weather prediction
+observations of coastal urban influences on convective precipitation over houston texas
+informationbased probabilistic verification scores and predictability measures seasonal prediction examples
+characterizing tradewind shallow convection regimes in the open sea with a synergy of shipbased vertical profiling observations
+the impact of arctic seaice loss on winter weather in the british isles
+can tropical cyclones exist near the equator
+improving indian summer monsoon rainfall prediction using deep learning up to two years in advance
+era5 deficit in supercooled liquid water cloud radiative forcing at dome c antarctica
+joint modulation of coastal rainfall in northeast australia by local and largescale forcings
+evaluating seasonal forecast improvements over the past two decades
+global usage of allsky infrared radiance from geostationary satellites
+an objective bayesian method for including parameter uncertainty in ensemble model output statistics
+using a causal effect network approach to quantify the impact of enso teleconnections on summer monsoon precipitation over the himalayas and key regional circulations
+a compositeloss graph neural network for the multivariate postprocessing of ensemble weather forecasts
+integrated water vapour as a diagnostic tool for fog detection and classification
+assessing the impact of model biases on subseasonal forecast skill
+distributed simulation for solar radiation of allweather in fujian province based on sunflux
+ucanwbgt urban street canyon heat stress calculation for weather and climate models
+urbanization amplifies dimming unraveling the drivers of reduced solar radiation in beijing
+data assimilation for nonlinear systems with a localized weighted ensemble transform kalman filter
+predictability of north pacific blocking events analoguebased analysis of historical miroc6 simulations
+mesoscale and microphysical processes leading to extreme hourly rainfall prior to the merger of two mesoscale convective systems in central china
+assessing the impact of passive microwave cloudy and precipitating observations onto the threedimensional ensemblevariational kilometerscale arome numerical weather prediction system
+decgan a bias correction and downscaling deeplearning model for numerical predictions with applications to sea surface temperature in the pacific and precipitation in asia
+an algorithm for modelling differential processes utilising a ratiocoupled loss
+improving the ocean skin temperature for microwave imagers at the european centre for mediumrange weather forecasts
+seasonal hindcasts to assess the hazard of meteorological drought over europe a multimodel approach
+impact of smallscale gravity waves on tracer transport
+multimodal deep learning for estimating mean precipitable water vapor
+mapping the supply of natures contributions to people on mount kilimanjaro
+amplified response of amazon floodplain flows to rising river levels
+potential one health risk of downwind exposure to airborne pathogens from thawing siberian permafrost
+beliefs about eu 2030 climate commitments across public expert and policy audiences
+sustained weakening in the atlantic nionia variability post 2100
+targeted grassland restoration increases potential for reduced nutrient export in the upper mississippi river basin
+pronounced intermodel uncertainties in trendysimulated terrestrial carbon sink responses to hydroclimatic extremes
+ammonia emissions and crop yields in china to 2060 under ssprcp scenarios with climate change and nitrogen fertilization attribution
+regional and subbasin tropical cyclone activity in the cmcc seasonal prediction system 35
+corrigendum mining expansion as new driver of deforestation in cte divoire prince d val et al 2025 environ res lett 20 124081
