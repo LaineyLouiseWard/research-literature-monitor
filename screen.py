@@ -3,13 +3,15 @@
 Literature monitor — daily screening workflow.
 
 Fetches RSS feeds, deduplicates against previously seen papers,
-screens new papers with Claude Haiku, and logs relevant ones.
+screens new papers with Claude Haiku, logs relevant ones, and
+optionally adds them to Zotero.
 
 Usage:
     python screen.py              # normal run
     python screen.py --dry-run    # fetch and dedup only, no API call
+    python screen.py --no-zotero  # skip Zotero upload
 
-Requires: feedparser, anthropic, requests
+Requires: feedparser, anthropic, requests, pyzotero
 """
 
 import argparse
@@ -40,6 +42,9 @@ SEEN_PAPERS = DIR / "seen_papers.txt"
 MODEL = "claude-haiku-4-5-20251001"
 MAX_BATCH = 50  # max papers per API call
 CROSSREF_ROWS = 30  # max papers to fetch per Crossref query
+ZOTERO_LIBRARY_ID = "6343594"
+ZOTERO_LIBRARY_TYPE = "group"
+ZOTERO_INBOX_KEY = "2IB3JCKI"
 CSV_FIELDS = [
     "date", "title", "source", "link",
     "relevance_score", "relevance_summary", "topic_labels",
@@ -352,6 +357,68 @@ def save_results(papers: list[dict], today: str) -> int:
 
 
 # ---------------------------------------------------------------------------
+# 6. Add relevant papers to Zotero _Inbox
+# ---------------------------------------------------------------------------
+def extract_doi(link: str) -> str | None:
+    """Extract a bare DOI from a URL like https://doi.org/10.1175/..."""
+    m = re.match(r"https?://(?:dx\.)?doi\.org/(10\..+)", link)
+    return m.group(1) if m else None
+
+
+def add_to_zotero(papers: list[dict]) -> int:
+    """Add scored papers to the Zotero _Inbox collection with topic tags.
+
+    Tries DOI first (richer metadata), falls back to URL.
+    Returns count of papers successfully added.
+    """
+    import os
+
+    api_key = os.environ.get("ZOTERO_API_KEY")
+    if not api_key:
+        print("WARNING: ZOTERO_API_KEY not set — skipping Zotero upload.")
+        return 0
+
+    from pyzotero import zotero
+
+    zot = zotero.Zotero(ZOTERO_LIBRARY_ID, ZOTERO_LIBRARY_TYPE, api_key)
+    added = 0
+
+    for p in papers:
+        if p.get("score", 0) < 3:
+            continue
+
+        tags = [{"tag": t.strip()} for t in p.get("labels", "").split(",") if t.strip()]
+        title = p["title"]
+        link = p.get("link", "")
+        doi = extract_doi(link)
+
+        try:
+            if doi:
+                # Create item from DOI metadata via Crossref
+                template = zot.item_template("journalArticle")
+                template["DOI"] = doi
+                template["url"] = link
+                template["title"] = title
+                template["collections"] = [ZOTERO_INBOX_KEY]
+                template["tags"] = tags
+                zot.create_items([template])
+            else:
+                # Fallback: create a minimal item with the URL
+                template = zot.item_template("journalArticle")
+                template["title"] = title
+                template["url"] = link
+                template["collections"] = [ZOTERO_INBOX_KEY]
+                template["tags"] = tags
+                zot.create_items([template])
+            added += 1
+            print(f"  + Zotero: {title[:70]}...")
+        except Exception as e:
+            print(f"  ! Zotero failed for '{title[:50]}...': {e}")
+
+    return added
+
+
+# ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
 def main():
@@ -359,6 +426,10 @@ def main():
     parser.add_argument(
         "--dry-run", action="store_true",
         help="Fetch and dedup only — skip the Claude API call",
+    )
+    parser.add_argument(
+        "--no-zotero", action="store_true",
+        help="Skip adding papers to Zotero _Inbox",
     )
     args = parser.parse_args()
     today = date.today().isoformat()
@@ -413,6 +484,14 @@ def main():
     # Save relevant papers
     saved = save_results(results, today)
     print(f"Saved {saved} relevant papers to paper_log.csv")
+
+    # Add to Zotero _Inbox
+    if not args.no_zotero and saved > 0:
+        print("\nAdding to Zotero _Inbox...")
+        zot_added = add_to_zotero(results)
+        print(f"Added {zot_added} papers to Zotero _Inbox")
+    elif args.no_zotero:
+        print("Skipping Zotero upload (--no-zotero)")
 
     # Mark all papers as seen (both accepted and rejected)
     new_titles = [normalise_title(p["title"]) for p in new_papers]

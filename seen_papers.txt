@@ -232,3 +232,311 @@ pronounced intermodel uncertainties in trendysimulated terrestrial carbon sink r
 ammonia emissions and crop yields in china to 2060 under ssprcp scenarios with climate change and nitrogen fertilization attribution
 regional and subbasin tropical cyclone activity in the cmcc seasonal prediction system 35
 corrigendum mining expansion as new driver of deforestation in cte divoire prince d val et al 2025 environ res lett 20 124081
+convection initiation under weak synopticscale forcing in shanghai favorable conditions and lifting mechanisms
+weather to subseasonal prediction from the ufs coupled global ensemble forecast system
+a machine learningbased bias correction method for gfs 2m temperature
+quantifying the value of convectionallowing globalnested ensembles for extendedrange severe weather forecasting
+on the representation of convectively coupled kelvin waves in operational forecast models an objecttracking perspective
+impact of land surface uncertainty on maritime weather prediction
+verification of probabilistic spc convective outlooks from 20022023 using probabilistic contingency tables and optical flow displacement
+atlantic tropical easterly wave and cyclogenesis forecasting in the physical and new ai forecast systems at ecmwf
+evaluating the performance of aibased and traditional nwp guidance for high impact winter storms over the us east coast
+idealized simulations of the sensitivity of supercell thunderstorm behavior near complex terrain to storm maturity and approach angle
+the combined impacts of midlevel humidity and lowlevel shear on supercell evolution on 22 may 2019
+generation mechanisms of mountainwave turbulence in the upper troposphere and lower stratosphere over alaska
+the viability of cycloidal debris swaths as a tornado wind speed estimation method
+the role of an atmospheric river in amplifying the june 2021 western north american heat wave
+datadriven sparse sensor selection for observingnetwork optimization and its impact on data assimilation
+assimilation of gnss ro and fy4a agri data based on pbltypedependent background error covariances and its impact on shortterm squallline rainfall prediction
+an observationmodel comparison framework for diagnosing tropical cyclone thermodynamic change application to hurricane sam 2021
+groundbased doppler radar observations of wavelike coherent structures along the inner edge of the tropical cyclone eyewall
+analyzing tropical cyclone surface wind asymmetry with a polarcoordinate periodicdomain deep learning model
+a sensordriven windfarm parameterization in wrf using a skewed gaussian windturbine wake model
+comments on mediterranean drying by a positive north atlantic oscillation trend over the last 65 years is an extreme outlier in the cmip6 multimodel ensemble
+the subseasonal connection between the land surface and great plains lowlevel jet
+changes in ensoinduced ocean heat content redistribution under global warming
+changes in seasonal front frequency and precipitation over east asia under ssp585 scenario
+corrigendum
+how well do cmip6 climate models simulate the cold air outbreaks in east asia
+a theory of seasonally varying axisymmetric hadley circulations including vertical momentum advection
+influence of sea surface temperature patterns and mean warming on past and future atlantic tropical cyclone activity
+strengthened linkage between qbo and peak summer precipitation in east asia since the 1990s
+historical changes in the japan sea polar airmass convergence zone jpcz and associated precipitation
+subsurface mixing promotes central pacificlike enso in an intermediate coupled model
+response of the south asian monsoon to amoc collapse
+distinct impacts of two types of spring north pacific meridional mode on north pacific tropical cyclone genesis frequency during the following summer and autumn
+declines in autumn precipitation in southwestern china and the yangtze river basin linked to the tropical pacific and atlantic warmings
+ensos strengthened control over global climate anomalies in a warmer world
+unforced interannualtodecadal variability of global radiation imbalance role of low clouds
+mechanism of crossseasonal response of arctic temperature to eurasian early spring snow loss the critical roles of soil moisture and stationary wave propagation
+the timedependent response of atlantic tropical cyclone potential intensity to pacific sst forcing part i a conceptual framework
+dominant role of clouds in regulating surface incident solar radiation from twentiethcentury reanalyses over mainland china
+reply to comments on mediterranean drying by a positive north atlantic oscillation trend over the last 65 years is an extreme outlier in the cmip6 multimodel ensemble
+impacts of three types of positive indian ocean dipole on tropical cyclone genesis over the northwest pacific
+dynamical consequences of polar amplification on standing rossby waves a laboratory perspective
+mapping synchronous heat waves in the northern hemisphere insights from climate network analysis
+intermodel spread in the wintermean strength of the arctic polar vortex in cmip6 models
+unraveling the dominant influence of enso over iod on australian springtime climate variability using a pacemaker modeling approach
+stronger southern ocean anthropogenic carbon uptake in eddying ocean simulations
+202123 extreme years of global drought in the context of long and shortterm hydroclimate trends
+unraveling winter precipitation predictability over conus via deep learning and explainable artificial intelligence
+a highaccuracy unet deep learning method for identifying typhooninduced precipitation
+a robust calibration and evaluation framework for dynamic catchment characteristics in hydrological modeling
+triple collocation validates conuswide evapotranspiration inferred from atmospheric conditions
+climate change and irrigation expansion reshape the water pressure and upstreamdownstream interactions in the lancangmekong river basin
+biascorrected ukcp18 convectionpermitting model projections for england
+never train a deep learning model on a single well revisiting training strategies for groundwater level prediction
+seasonal dynamics of closed shallow lakes nutrient status controlled by lacustrine groundwater discharge
+technical note high nashsutcliffe efficiencies conceal poor simulations of interannual variance in seasonal regimes
+transformedstationary eva 20 a generalized framework for nonstationary multivariate extremes analysis
+a large transient multiscenario multimodel ensemble of future streamflow and groundwater projections in france
+joint characterization of heterogeneous conductivity fields and pumping well attributes through iterative ensemble smoother with a reducedorder modeling strategy for solute transport
+the effects of upstream water abstraction for commercial export farming on drought risk and impact of agropastoral communities in the drylands of kenya
+multicomponent reactive transport in nearsaturated deformable porous media
+communityscale urban flood monitoring through fusion of timelapse imagery terrestrial lidar and remote sensing data
+adjusting diurnal error in dielectricbased in situ soil moisture measurements via fourier timefiltering using land surface model datasets
+interpretable feature incorporation machinelearning framework for flood magnitude estimation
+hydroeconomic optimization of water management in the yellow river basin dealing with scarcity
+exploring controls on solute export mechanisms in anthropogenically impacted catchments in southern germany in climatically different periods
+nonlinear hydroclimatic controls on an aridregion lake evidence from 40 years of remote sensing
+on the relevance of molecular diffusion for travel time distributions inferred from different water isotopes
+a gnn routing module is all you need for lstm rainfallrunoff models
+early identification of reservoirbank landslides in deeply incised mountain canyon areas with interferometric baseline optimization
+the deadliest sudden weatherrelated events in the czech lands 18512025ce
+leveraging reforecasts for flood estimation with long continuous simulation a proofofconcept study
+brief communication insitu measurements of basal sliding  in natural debris flows
+paneuropean assessment of coastal flood hazards
+future rime ice conditions for energy infrastructure over fennoscandia resolved with a highresolution regional climate model
+prototype citizen and community science app for urban heavy rainfall risk management in the ahr valley germany
+invited perspectives four reasons drr does not work as intended  lessons from the 2025 california wildfires and beyond
+the damability function a probabilistic approach to regional landslide dam susceptibility analysis applied to the oregon coast range usa
+assessing sea level rise and extreme events along  the chinaeurope sea route
+towards global sensitivity analysis of largescale flood loss models
+quantifying fire effects on debris flow runout using a morphodynamic model and stochastic surrogates
+a geospatial database of coastal characteristics for erosion assessment of europes coastal floodplains
+simulating spatial multihazards with generative deep learning
+review article reviewing berlins urban parks from the perspectives of socioeconomic inequality climate resilience and sustainable management
+reconstruction and forecasting of slowmoving landslide displacement using a kalman filter approach
+development and validation of an early warning system for  coastal flooding operating on a mediterranean urban beach
+predicting thunderstorm risk probability at very short time range using deep learning
+analysis on multifactor synergistic  hazards mechanism of wet microdownburst a multisource data fusion analysis based on passenger vessel capsizing accident in qianxi guizhou on 4 may 2025
+tracking the slopes a spatiotemporal prediction model for backcountry skiing activity in the swiss alps using usergenerated content
+on the biases of empirical riverine gas transfer velocity models at high submergence
+evaluating the feasibility of phased array radarderived quantitative precipitation estimation using the nssls advanced technology demonstrator
+eddy kinetic energy contribution to total ocean kinetic energy from multisatellite altimetry
+shallow creep in the leaky stress shadow of locked zones of subduction megathrust
+successes and failures of current ai climate models
+climatology and trends in spatial scales of extreme precipitation over land in the contiguous us
+on the strength of solar forcing in the earths thermosphere
+the dissipation regime of turbulence on mars observed with microphone data from the mars 2020 perseverance rover
+asperitydriven cascading rupture of a mw 16 induced microearthquake
+icedynamic constraints on glacier climatic mass balance using inverse techniques
+turbulent mixing and dissipation around rough seamounts
+atmospheric rivers are a frequent source of moisture transport in severe convective storm environments
+belowcloud ccn concentrations provide better constraints on the twomey effect than aerosol optical properties
+selfaffine scaling of earths islands
+decadal variability of eddy kinetic energy along the eastern boundary of the subtropical south indian ocean
+nonlinear gyrokinetic simulation of the magnetosphereionosphere feedback coupling
+the value of forecastersintheloop in realtime flood forecasting in the age of machine learning
+longterm observations reveal nonnegligible temperature contributions to moist static energy during the mjo transition from suppressed to active phases
+impact of mantle velocity uncertainty on receiverfunction imaging of the transition zone
+on the application of 1 versus 2 state variable rateandstate friction laws an example from the nankai trough megasplay fault zone
+interacting effects of sealevel rise and ocean warming reshape thermal environments on a coral reef
+future changes in the atmospheric water cycle over the tibetan plateau
+influence of atmospheric rivers on lake ice phenology in the northern hemisphere
+the net effective radiative forcing from ozonedepleting substances and its uncertainty
+escalating compound droughtheatwaves and demographic shifts threaten simultaneous global breadbasket failures
+anomalous opaque clouds revealed by collocated modis and caliop retrievals
+network divergence reveals predictable pathways of extreme rainfall in central india
+a 300 myr longlived topographic highland along the northern north china craton margin driven by multistage continental convergence
+mechanisms for decadal variability of ocean heat uptake inferred from adjoint sensitivities
+observed drivers of rapid seaice melt events in the arctic during summer
+characteristics of seismic energy rate functions of shallow tremors
+layered seismic anisotropy and tectonics of the anatolian plate
+how volume increases the mobility of geophysical granular flow a unified rheological perspective
+spatial heterogeneity of salt marsh vulnerability to sealevel rise dual controls of hydrological setting and salinity regime
+partial ruptures cascading multifault ruptures and aftershocks in 2d random fault network
+comparative analysis of seismicity across three depthdependent slip regimes in the japan trench subduction zone
+trenchbreaching rupture of the 2025 mw 88 kamchatka earthquake and how it repeats the 1952 event
+enhanced decadal variance in nordic seas with amoc weakening in cesm
+simultaneous compressive kineticscale fluctuations and secondharmonic proton cyclotron waves inside a martian magnetosheath structure
+dominant role of soil moisture regulating vegetation water content during flash drought evolution
+antarctic meltwaterstratification feedback is less pronounced under high climate forcing
+mainshockinduced stress changes modulate initial aftershocks on complex branching faults of the 2019 ridgecrest earthquake
+hidden complexity in reservoir flow regulation revealed by spectral analysis
+frequencydependent latitudinal distributions of plasmaspheric plume hiss directionality and amplitude
+beyond the nutrient paradigm thermal intensity and duration trigger opposite phytoplankton responses to marine heatwaves in the east china sea
+variability of the deepwater inputs from the adriatic and aegean seas over the period of sapropel s1 deposition based on foraminiferal nd isotopes
+a novel technique for extracting the tidal magnetic field methodology and application to a preprocessed dataset of cses and swarm
+the emergence of a human fingerprint in the boreal winter extratropical zonal mean circulation
+submesoscale energy cycle in a coupled oceanatmosphere simulation of the gulf stream
+quantifying underice phytoplankton blooms in the changing arctic and southern oceans
+spatial patterns of shallow clouds challenging the concept of defined regimes
+beyond the mean the mesoscale cloud patterns of the atlantic intertropical convergence zone
+highresolution observations unveil submesoscale heat fluxes shaping upperocean heat content
+field observations validate lesderived scaling of verticalvelocity variance during the afternoon transition of the convective boundary layer
+slab dehydration observed down to lower seismicity plane depths in the northern chile subduction zone
+the role of fluids in fault mechanics a 16year analysis of the irpinia seismicity southern italy
+bayesian estimates of ice optical properties for lake ice modeling
+humpshaped enhancement of coarsegrain transport in sediment mixtures induced by fine grains of different sizes
+can the international reference ionosphere model predict longterm trends in the ionosphere
+significant radiative absorption of brown carbon aerosols from residential fuel combustion in developing regions
+the role of groundwater in contributing to surface water salinization in the upper colorado river basin
+seismic attenuation reveals fault and forearc structure across the subductioncollision transition in southern taiwan
+air quality penalty in southeast asia driven by amoc slowdown
+influence of the eccentric geomagnetic dipole on longitude variations of compressional upstream wave amplitudes in the topside ionosphere results from the mss1a satellite
+adsorption preceding wetting front controls seismic velocity
+on tropical cyclone fullness
+observations of the magnetopause reconnection ion diffusion region with highdensity o ions during the may 2024 superstorm
+earths lower mantle predominated by ferric ironrich bridgmanite inferred from high pressure elasticity measurements
+hydraulic control of the foreshocks and mainshock of the 2017 valparaso chile earthquake
+al2o3 in anorthositic slabs a new perspective on llsvps and seismic velocity variations
+swot satellite observations of the kakhovka dam break flood highlight limitations of outburst flood models
+decadal changes in wintertime frequency of stratospheric northern annular mode events with downward propagation
+transpiration changes with soil warming insights from a mechanistic model
+permanent hydraulic and poroelastic property changes in a deep aquifer triggered by the distant tohoku earthquake
+southern hemispheric atmospheric blocking patterns in cesmlens2 effects of reversal versus anomaly approaches
+precursors of marine heatwaves in the eastern mediterranean
+first quantitative results on the response of green and red line dayglow emissions to solar flares of different magnitudes
+pacific decadal oscillation modulates an interdecadal transpacific drywet seesaw in east asian and north american semiarid regions
+synthetic aperture radar sarbased evaluation of tropical cyclone wind profiles and a theorybased radius of maximum wind estimation
+quasistationary atmospheric rivers as the primary driver of rossby wave activity in the global subtropics
+classification of the atmospheric boundary layer based on turbulent kinetic energy budget terms using machinelearning methods
+relatively intense daytime gnss amplitude scintillations at middle latitude linked with multilayered strong es structures
+airborne radar reveals areawide decadal increase of surface mass balance on the plateau in dronning maud land east antarctica
+hydraulic or seepage erosion what drives bank collapse in tidal environments
+assessing consistency in fuel consumed between activitybased wildfire emission estimates
+stress transfer from slow slip events to earthquake swarms as a cycle in the southernmost ryukyu subduction zone
+bromine enrichment signal in svalbard shallow cores reflects changes of seasonal sea ice variability
+global diurnal variation characteristics of aerosol optical depth from 32 years of aeronet observations
+processoriented calibration of a turbulence scheme in the does global stormresolving model using machine learning
+seismollm advancing seismic monitoring via crossmodal transfer with pretrained large language model
+the detection of transient subduction zone interface properties using teleseismic data
+observational evidence for relative humidity driving black carbon mixing state and absorption enhancement in urban outflows
+response of ocean mesoscale coherent eddies to global warming
+enso predictability from combined wyrtki and hasselmann memory in a cyclostationary linear inverse model
+advanced optical measurements reveal hygroscopic growth of interstitial aerosols dominates visibility degradation of observed fogs on the north china plain
+meridional dipole in eddy activity along peruvian coast during eastern pacific el nio events
+shortterm forecasting of cloud physical properties based on fourier neural operator method
+surface runoff discrepancy in urbanplumber land surface models
+19clustered foreshock sequences along the san jacinto fault zone possible role of frictional heterogeneity in extended earthquake nucleation
+uniformity in heavy precipitation microphysics during the northward advancement of summer monsoon in china unveiled by objective weather typing
+observationbased spatiotemporal analysis of the evolving flood regulation capacity for the yangtze river basin
+magnetopause boundary layers in low mach cmedriven storm environment
+meltwater as a local source of ice nucleating particles in the central arctic summer
+swot and swath altimetry a breakthrough for global ocean prediction
+modelling reveals an ice field on the arid northeastern tibetan plateau during marine isotope stage 6
+physical and ecological forcings drive the particle dynamics and enhanced carbon export efficiency in the tropical marginal sea
+fault kinematic controls on the spatiotemporal proximity of the 2023 mw 7877 trkiye earthquakes
+mesoscale eddy currents reshape the spatial distribution of wave height in the southern ocean
+microbially mediated intracellular barite mineralization evidence from an early ediacaran microfossil in the doushantuo formation of south china
+observations of highresolution twodimensional ionospheric flow dynamics associated with poleward boundary intensifications
+can terrain induce moist absolutely unstable layers and enhance extreme rainfall
+validation of 1day repeat swot measurements against tidegauge and glider data off canadas west coast
+ostwald ripening in underground gas storage
+influx of bay of bengal waters and stirring trends in the arabian sea based on satellite altimetry
+on the utility of the transient climate response
+selflofting drives tropospheric and stratospheric transport of australian wildfire smoke to antarctic ice
+observed increase in tropical vegetation droughts over the past three decades
+magnetic signatures of a plasma wake behind the swarm satellites
+backwater effects from river ice jams observed with swot pixel cloud data
+magma and volatile pathways beneath sakurajima volcano from selfpotential helium isotopes and broadband magnetotellurics
+enso recharge oscillator theory integrating the southward wind shift
+weak influence of surface pressure on arctic radiative states from winter to spring over the seaice
+amplified european future warming under mesoscaleresolving sea surface temperature forcing
+evolution of magnetospheric boundary layers under the 10 may 2024 icme impact
+bacteria as passive passengers in the equatorial pacific biological carbon pump
+airborne photoncounting lidar for shallowwater bathymetry with robust noise removal and depth retrieval
+the slip distributions of the 1952 and 2025 kamchatka earthquakes from tsunami waveforms recorded around the pacific ocean
+nitrogen stable isotopes track ammonia emission sources and ammonium aerosol formation processes in the marine boundary layer
+evaluating anisotropybased moninobukhov similarity theory over canopies and complex terrain
+lagrangian analysis of two flavours of central european heatwaves formation under omega blocking versus initiation by subtropical ridges
+allsky fy4bgiirs infrared hyperspectral satellite data assimilation in the cmagfs 4dvarsystem part i implementation
+risenet a deeplearning model for improving finescale summer precipitation nowcasting in the beijingtianjinhebei region
+modulation of wind drag by tidal currents in an embayment
+assimilation of machinelearningpredicted nitrate to improve the quality of phytoplankton forecasting in the shelfsea environment
+is the length of the indian summer monsoon season shrinking
+a review of the fatima yellow sea field campaign research
+statistical postprocessing of operational dualresolution windspeed ensemble forecasts
+how consistently do ensemble prediction systems represent the growth of atmospheric uncertainty
+suggestions for unifying the parametrizations of turbulent orographic form drag mountain wave drag and flow blocking
+characterization of synoptic environment for mesoscale convective systems over south korea using era5 reanalysis data
+simulating the year to minute wind spectrum with mesoscalecoupled largeeddy simulations
+a source of simulation error for nocturnal heavy rainfall over the sichuan basin the role of lowlevel wind structures and dynamics
+radiative and microphysical effects of solid species on the intensity forecast of typhoon hato 2017
+improving the prediction of the 3 july 2019 kaiyuan tornadic supercell and embedded tornado with radar and surface data assimilation
+bivariate postprocessing of wind vectors
+an anatomy of fog over nova scotia under a ridge on 8 september 2021
+diagnosing the 11year solar cycles influence on the east atlantic pattern
+distinct impacts of the boreal summer asianaustralian monsoon and tropical sea surface temperature anomalies on the interannual variability of southern hemisphere circulation
+present and future downslope windstorms in the scandinavian mountains from a kilometrescale climate model
+towards operational assimilation of surfacesensitive microwave radiances over land at environment and climate change canada investigation of key factors using a 1denvar framework
+mechanisms for two types of extreme heavy rainfall in northern china under similar synopticscale background environments
+comparison of two numerical weather prediction models in simulating south foehn in the alpine rhine valley
+microphysics and interactions of aerosols and fog on the northwest atlantic ocean
+a structurally localized ensemble kalman filtering approach
+a new smoother method for treating different timescales in variational data assimilation for coupled systems
+medicane characteristics from highresolution satellite radar observations
+are we misdiagnosing ensemble forecast reliability on the insufficiency of spreaderror and rankbased reliability metrics
+physicsinformed ensemble forecasts in datadriven models
+nowprecip 2 precipitation nowcasting in the complex terrain of switzerland part ii verification
+an opportunity index to anticipate when subseasonal predictions are useful
+an investigation into the impacts of the vertical smoothing of gnssro bendingangle observations on met office nwp forecasts
+allsky fy4bgiirs infrared hyperspectral satellite data assimilation in the cmagfs 4dvar system part ii evaluation
+sensitivity of flower tradewind cloud organisation to mesoscale atmospheric heterogeneities
+a new method to identify and explain sources of precipitation modification illustrated for the western netherlands
+understanding the transseason impact of tibetan plateau snow cover anomalies on tropical cyclogenesis over the western north pacific
+nowprecip2 precipitation nowcasting in the complex terrain of switzerland part i methods
+parameter investigation for urban surfaceenergy balance a largeeddy simulation study
+evaluating the realism of double moment parameterised particle size distributions in a midlatitude frontal ice cloud with complex microphysics
+indian and african monsoons trajectories and interactions
+correction to rolling dice to advance knowledge of landatmosphere interactions
+moist convection and radiative cooling dynamical response and scaling
+the stratospheric gravity wave field produced by a supercell
+when tiny convective spread affects a midlatitude jet spread sequence
+unravelling indoor temperature response to summer heat through longterm crowdsourced observations in dutch residences
+exploration of the use of shortwave infrared radiances in weather forecastsmodelpart ii data assimilation and forecast impact assessment
+development and impact of weakconstraint 4dvar with model bias consideration in the cmagfs
+replicating semiimplicit semilagrangian stability in semiimplicit timestepping schemes using forwardintime eulerian advection
+application of a cloud method in simulating mountain waves over steep topography
+physically consistent mesoscale model evaluation in complex terrain
+numerical simulations on the 120m resolution wind field in a nonuniform urban canopy layer with a land cover classification and canopy porous mediumbased drag model
+the limits of knowing an equilibrium between the observational gain and chaotic loss of information in data assimilation
+twostep ensemble data assimilation on the simplex application to seaice concentration
+climatology of uppertropospheric turbulence capabilities and limitations of aircraft reports and era5 reanalysis diagnostics
+data assimilation with extremum monte carlo methods
+meteorological conditions leading to a catastrophic raininduced landslide in cameroon in october 2019
+ensemble kalman filter in latent space using a variational autoencoder pair
+on the meridional asymmetry of the polewarddisplaced intertropical convergence zone
+information content assessment of hyperspectral microwave radiometer for temperature and humidity sounding in a numerical weather prediction context
+dynamic features of bora wind vortices
+the climatology of extremely high warmseason temperatures and their sensitivity to climate change
+evening transition thermal processes and flow dynamics over opposing slopes of an isolated mountain
+land data assimilation of satellitebased surface soil moisture impact on atmospheric simulations over the contiguous united states
+mesoscale dynamics of cyclone leslie 2018 a diagnostic analysis of a rare iberian landfall
+classification of fog lifecycle phases using groundbased and satellitebased observations
+a case study of temperature tendency mechanisms operating over northern africa during and following midlatitude winter troughs
+direct measurement of bidirectional turbulent fluxes of atmospheric cluster ions
+optimising the design of an observational testbed using observing system simulation experiments a case study in the southeastern arabian sea
+a comparison of en4dvar and 4denvar in convectivescale supercell data assimilation a study of the 8 may 2003 oklahoma city tornadic supercell
+unraveling the role of land use changes in shaping extreme rainfall in south india
+fuzzy postprocessing of seasonal climate forecasts for semiarid river basins
+generating ensembles of spatially coherent in situ forecasts using flow matching
+north atlantic fingerprint on severe heatwaves over the indian region
+assessing wildfire dynamics during a megafire in portugal using the mesonhforefire coupled model
+characterizing multilevel wind interactions via transfer entropy analysis evidence from vertical and horizontal components
+the characteristics of squall lines in the southeast asia region
+indias peak air pollution puzzle untangling the role of meteorology emissions and crossborder contribution
+impacts of subtropical pacific variability on snow precipitation fraction spf in the upper colorado river basin
+a systematic review of the voluntary governance landscape for an urgent highintegrity and equitable transition to net zero
+neighborhood privilege and environmental conditions in urban parks an analysis across the 24 most populated urban areas in the united states
+persistent voluntary halving of academic flying suggests new mobility norms
+tracking the path to cleaner cities using global urban no2 monitoring from space
+factors shaping the siting of utilityscale solar and wind projects in the united states
+what do we know about the albedo effect of afforestation and reforestation a systematic synthesis of the scientific literature
+evidence gaps in tropical plant responses to climate change
+the influence of waves and bubbles on oxygen in the ocean interior
+material coherence and life cycle of a wildfiregenerated stratospheric vortex
+bridging the sensitivity gap in precipitation estimates from spaceborne radars using passive microwave observations
+amplified urban climate extremes from global warmingurbanization synergy toward a physicsinformed intelligence paradigm
+experimental study of turbulent thermal diffusion of inertial particles in a convective turbulence forced by oscillating grids
